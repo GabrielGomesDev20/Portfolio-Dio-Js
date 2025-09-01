@@ -7,8 +7,8 @@ O objetivo é colocar em prática conceitos de **estruturação de páginas, est
 
 ## 📸 Demonstração do Projeto  
 
-> *(Adicione aqui uma captura de tela do projeto para visualização rápida)*  
-> ![Screenshot do Projeto](./assets/imagens/projeto finalizado.jpg)  
+![Screenshot do Projeto](./assets/imagens/projeto%20finalizado.jpg)
+
 
 ---
 
