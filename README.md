@@ -43,4 +43,4 @@ O foco deste projeto foi:
 ## 📌 Como Executar  
 
 CLique no link ao lado para rodar no seu navegador :
-**[Rode na sua máquina](https://gabrielgomesdev20.github.io/Portfolio/)** 
+**[Rode na sua máquina](https://gabrielgomesdev20.github.io/Portfolio-Dio-Js/)** 
