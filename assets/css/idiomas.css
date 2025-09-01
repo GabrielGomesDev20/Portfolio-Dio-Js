@@ -1,0 +1,20 @@
+.idiomas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 1rem;
+}
+
+.idiomas li{
+    padding: 0 0 .850rem 1rem;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.idiomas li i{
+    margin-right: 5px;
+}
